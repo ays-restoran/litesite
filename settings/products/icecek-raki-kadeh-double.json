@@ -2,7 +2,7 @@
   "id": "dr12",
   "name": "Rakı Kadeh Double",
   "url": "icecek-raki-kadeh-double",
-  "images": ["icecek-raki-kadeh-double.jpg"],
+  "images": ["icecek-raki-kadeh-double.webp"],
   "price": 400,
   "weight": { "value": 1, "unit": "kadeh" },
   "category": { "name": "İçecek", "url": "icecek" },
@@ -11,5 +11,6 @@
   "keywords": "rakı, kadeh, double, ays restorant",
   "longDesc": ["Soğuk su ile servis edilen double kadeh rakı."],
   "otherDesc": [{ "name": "Porsiyon", "value": "Double Kadeh", "type": "spec" }],
-  "aggregateRating": { "ratingValue": "5", "reviewCount": "1", "bestRating": "5", "worstRating": "1" }
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "1", "bestRating": "5", "worstRating": "1" },
+  "isForMenu": false
 }

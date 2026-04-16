@@ -2,7 +2,7 @@
   "id": "dr27",
   "name": "Fuse Tea (Şeftali/Limon/Mango)",
   "url": "icecek-fuse-tea",
-  "images": ["icecek-fuse-tea.jpg"],
+  "images": ["icecek-fuse-tea.webp"],
   "price": 90,
   "weight": { "value": 1, "unit": "adet" },
   "category": { "name": "İçecek", "url": "icecek" },

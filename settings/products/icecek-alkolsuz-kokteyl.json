@@ -2,7 +2,7 @@
   "id": "dr18",
   "name": "Alkolsüz Kokteyl",
   "url": "icecek-alkolsuz-kokteyl",
-  "images": ["icecek-alkolsuz-kokteyl.jpg"],
+  "images": ["icecek-alkolsuz-kokteyl.webp"],
   "price": 400,
   "weight": { "value": 1, "unit": "adet" },
   "category": { "name": "İçecek", "url": "icecek" },

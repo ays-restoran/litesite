@@ -2,7 +2,7 @@
   "id": "dd8",
   "name": "Çıtır Tavuk Dürüm (Double)",
   "url": "durum-citir-tavuk-double",
-  "images": ["durum-citir-tavuk.jpg"],
+  "images": ["durum-citir-tavuk.webp"],
   "price": 400,
   "weight": { "value": 1, "unit": "adet" },
   "category": { "name": "Dürüm", "url": "durum" },

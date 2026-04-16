@@ -2,7 +2,7 @@
   "id": "dr7",
   "name": "Çikolata Smoothie",
   "url": "icecek-cikolata-smoothie",
-  "images": ["icecek-cikolata-smoothie.jpg"],
+  "images": ["icecek-cikolata-smoothie.webp"],
   "price": 260,
   "weight": { "value": 1, "unit": "adet" },
   "category": { "name": "İçecek", "url": "icecek" },

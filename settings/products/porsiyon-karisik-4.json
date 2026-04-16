@@ -2,7 +2,7 @@
   "id": "p12",
   "name": "Karışık Izgara (4 Kişilik)",
   "url": "porsiyon-karisik-4",
-  "images": ["porsiyon-karisik-4.jpg"],
+  "images": ["porsiyon-karisik-4.webp"],
   "price": 3000,
   "weight": { "value": 4, "unit": "kişilik" },
   "category": { "name": "Porsiyon", "url": "porsiyon" },

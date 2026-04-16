@@ -2,7 +2,7 @@
   "id": "p8",
   "name": "Kanat Porsiyon",
   "url": "porsiyon-kanat",
-  "images": ["porsiyon-kanat.jpg"],
+  "images": ["porsiyon-kanat.webp"],
   "price": 500,
   "weight": { "value": 1, "unit": "porsiyon" },
   "category": { "name": "Porsiyon", "url": "porsiyon" },

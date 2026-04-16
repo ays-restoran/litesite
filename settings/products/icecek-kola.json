@@ -2,7 +2,7 @@
   "id": "dr23",
   "name": "Kola",
   "url": "icecek-kola",
-  "images": ["icecek-kola.jpg"],
+  "images": ["icecek-kola.webp"],
   "price": 90,
   "weight": { "value": 1, "unit": "adet" },
   "category": { "name": "İçecek", "url": "icecek" },

@@ -2,7 +2,7 @@
   "id": "ap6",
   "name": "Mantı",
   "url": "aperatif-manti",
-  "images": ["aperatif-manti.jpg"],
+  "images": ["aperatif-manti.webp"],
   "price": 320,
   "weight": { "value": 1, "unit": "porsiyon" },
   "category": { "name": "Aperatif", "url": "aperatif" },

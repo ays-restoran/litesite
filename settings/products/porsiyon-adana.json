@@ -2,7 +2,7 @@
   "id": "p1",
   "name": "Adana Porsiyon (Acılı)",
   "url": "porsiyon-adana",
-  "images": ["porsiyon-adana.jpg"],
+  "images": ["porsiyon-adana.webp"],
   "price": 500,
   "weight": { "value": 1, "unit": "porsiyon" },
   "category": { "name": "Porsiyon", "url": "porsiyon" },

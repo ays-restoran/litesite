@@ -2,7 +2,7 @@
   "id": "dr32",
   "name": "Şalgam (Acılı/Acısız)",
   "url": "icecek-salgam",
-  "images": ["icecek-salgam.jpg"],
+  "images": ["icecek-salgam.webp"],
   "price": 70,
   "weight": { "value": 1, "unit": "adet" },
   "category": { "name": "İçecek", "url": "icecek" },

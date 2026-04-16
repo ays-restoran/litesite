@@ -2,7 +2,7 @@
   "id": "dr25",
   "name": "Fanta",
   "url": "icecek-fanta",
-  "images": ["icecek-fanta.jpg"],
+  "images": ["icecek-fanta.webp"],
   "price": 90,
   "weight": { "value": 1, "unit": "adet" },
   "category": { "name": "İçecek", "url": "icecek" },

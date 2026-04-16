@@ -2,7 +2,7 @@
   "id": "m6",
   "name": "Penne All'Arabiatta",
   "url": "makarna-penne-all-arabiatta",
-  "images": ["makarna-penne-all-arabiatta.jpg"],
+  "images": ["makarna-penne-all-arabiatta.webp"],
   "price": 320,
   "weight": { "value": 1, "unit": "porsiyon" },
   "category": { "name": "Makarna", "url": "makarna" },

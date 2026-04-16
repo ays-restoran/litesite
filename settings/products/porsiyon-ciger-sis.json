@@ -2,7 +2,7 @@
   "id": "p5",
   "name": "Ciğer Şiş Porsiyon",
   "url": "porsiyon-ciger-sis",
-  "images": ["porsiyon-ciger-sis.jpg"],
+  "images": ["porsiyon-ciger-sis.webp"],
   "price": 600,
   "weight": { "value": 1, "unit": "porsiyon" },
   "category": { "name": "Porsiyon", "url": "porsiyon" },

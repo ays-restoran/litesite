@@ -2,7 +2,7 @@
   "id": "dd5",
   "name": "Tavuk Şiş Dürüm (Double Şiş)",
   "url": "durum-tavuk-sis-double",
-  "images": ["durum-tavuk-sis.jpg"],
+  "images": ["durum-tavuk-sis.webp"],
   "price": 400,
   "weight": { "value": 1, "unit": "adet" },
   "category": { "name": "Dürüm", "url": "durum" },

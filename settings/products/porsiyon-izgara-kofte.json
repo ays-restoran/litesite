@@ -2,7 +2,7 @@
   "id": "p7",
   "name": "Izgara Köfte Porsiyon",
   "url": "porsiyon-izgara-kofte",
-  "images": ["porsiyon-izgara-kofte.jpg"],
+  "images": ["porsiyon-izgara-kofte.webp"],
   "price": 550,
   "weight": { "value": 1, "unit": "porsiyon" },
   "category": { "name": "Porsiyon", "url": "porsiyon" },

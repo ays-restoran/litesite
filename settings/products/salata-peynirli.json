@@ -2,7 +2,7 @@
   "id": "s2",
   "name": "Peynirli Salata",
   "url": "salata-peynirli",
-  "images": ["salata-peynirli.jpg"],
+  "images": ["salata-peynirli.webp"],
   "price": 300,
   "weight": { "value": 1, "unit": "porsiyon" },
   "category": { "name": "Salata", "url": "salata" },

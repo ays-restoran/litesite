@@ -2,7 +2,7 @@
   "id": "dd2",
   "name": "Urfa Dürüm (Double Şiş)",
   "url": "durum-urfa-double",
-  "images": ["durum-urfa.jpg"],
+  "images": ["durum-urfa.webp"],
   "price": 500,
   "weight": { "value": 1, "unit": "adet" },
   "category": { "name": "Dürüm", "url": "durum" },

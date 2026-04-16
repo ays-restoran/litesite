@@ -2,7 +2,7 @@
   "id": "ap2",
   "name": "Mercimek Çorbası",
   "url": "aperatif-mercimek",
-  "images": ["aperatif-mercimek.jpg"],
+  "images": ["aperatif-mercimek.webp"],
   "price": 120,
   "weight": { "value": 1, "unit": "kase" },
   "category": { "name": "Aperatif", "url": "aperatif" },

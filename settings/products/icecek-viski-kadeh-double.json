@@ -2,7 +2,7 @@
   "id": "dr15",
   "name": "Viski Kadeh Double",
   "url": "icecek-viski-kadeh-double",
-  "images": ["icecek-viski-kadeh-double.jpg"],
+  "images": ["icecek-viski-kadeh-double.webp"],
   "price": 520,
   "weight": { "value": 1, "unit": "kadeh" },
   "category": { "name": "İçecek", "url": "icecek" },
@@ -11,5 +11,6 @@
   "keywords": "viski, kadeh, double, ays restorant",
   "longDesc": ["Buz veya soda eşliğinde servis edilen double kadeh viski."],
   "otherDesc": [{ "name": "Porsiyon", "value": "Double Kadeh", "type": "spec" }],
-  "aggregateRating": { "ratingValue": "5", "reviewCount": "1", "bestRating": "5", "worstRating": "1" }
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "1", "bestRating": "5", "worstRating": "1" },
+  "isForMenu": false
 }

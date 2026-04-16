@@ -2,7 +2,7 @@
   "id": "dr31",
   "name": "Soda (Sade/Limon)",
   "url": "icecek-soda",
-  "images": ["icecek-soda.jpg"],
+  "images": ["icecek-soda.webp"],
   "price": 50,
   "weight": { "value": 1, "unit": "adet" },
   "category": { "name": "İçecek", "url": "icecek" },

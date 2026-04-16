@@ -2,7 +2,7 @@
   "id": "dr34",
   "name": "Soğuk Kahve",
   "url": "icecek-soguk-kahve",
-  "images": ["icecek-soguk-kahve.jpg"],
+  "images": ["icecek-soguk-kahve.webp"],
   "price": 175,
   "weight": { "value": 1, "unit": "adet" },
   "category": { "name": "İçecek", "url": "icecek" },

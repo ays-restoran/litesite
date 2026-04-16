@@ -2,7 +2,7 @@
   "id": "dr6",
   "name": "Çilek Smoothie",
   "url": "icecek-cilek-smoothie",
-  "images": ["icecek-cilek-smoothie.jpg"],
+  "images": ["icecek-cilek-smoothie.webp"],
   "price": 260,
   "weight": { "value": 1, "unit": "adet" },
   "category": { "name": "İçecek", "url": "icecek" },

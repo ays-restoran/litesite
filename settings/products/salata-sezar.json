@@ -2,7 +2,7 @@
   "id": "s3",
   "name": "Sezar Salata",
   "url": "salata-sezar",
-  "images": ["salata-sezar.jpg"],
+  "images": ["salata-sezar.webp"],
   "price": 350,
   "weight": { "value": 1, "unit": "porsiyon" },
   "category": { "name": "Salata", "url": "salata" },

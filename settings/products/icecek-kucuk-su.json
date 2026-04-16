@@ -2,7 +2,7 @@
   "id": "dr28",
   "name": "Küçük Su",
   "url": "icecek-kucuk-su",
-  "images": ["icecek-kucuk-su.jpg"],
+  "images": ["icecek-kucuk-su.webp"],
   "price": 30,
   "weight": { "value": 1, "unit": "adet" },
   "category": { "name": "İçecek", "url": "icecek" },

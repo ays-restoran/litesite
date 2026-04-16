@@ -2,7 +2,7 @@
   "id": "dr26",
   "name": "Sprite",
   "url": "icecek-sprite",
-  "images": ["icecek-sprite.jpg"],
+  "images": ["icecek-sprite.webp"],
   "price": 90,
   "weight": { "value": 1, "unit": "adet" },
   "category": { "name": "İçecek", "url": "icecek" },

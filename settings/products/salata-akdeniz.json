@@ -2,7 +2,7 @@
   "id": "s1",
   "name": "Akdeniz Salatası",
   "url": "salata-akdeniz",
-  "images": ["salata-akdeniz.jpg"],
+  "images": ["salata-akdeniz.webp"],
   "price": 250,
   "weight": { "value": 1, "unit": "porsiyon" },
   "category": { "name": "Salata", "url": "salata" },

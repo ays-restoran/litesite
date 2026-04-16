@@ -2,7 +2,7 @@
   "id": "dt9",
   "name": "Et Dönerli Soslu Dürüm (Tek Şiş)",
   "url": "durum-et-donerli-tek",
-  "images": ["durum-et-donerli.jpg"],
+  "images": ["durum-et-donerli.webp"],
   "price": 350,
   "weight": { "value": 1, "unit": "adet" },
   "category": { "name": "Dürüm", "url": "durum" },

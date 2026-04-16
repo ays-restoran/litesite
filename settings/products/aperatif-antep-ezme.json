@@ -2,7 +2,7 @@
   "id": "ap8",
   "name": "Acılı Antep Ezme",
   "url": "aperatif-antep-ezme",
-  "images": ["aperatif-antep-ezme.jpg"],
+  "images": ["aperatif-antep-ezme.webp"],
   "price": 150,
   "weight": { "value": 1, "unit": "porsiyon" },
   "category": { "name": "Aperatif", "url": "aperatif" },

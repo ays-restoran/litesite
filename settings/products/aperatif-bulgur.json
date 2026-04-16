@@ -2,7 +2,7 @@
   "id": "ap7",
   "name": "Bulgur Pilavı",
   "url": "aperatif-bulgur",
-  "images": ["aperatif-bulgur.jpg"],
+  "images": ["aperatif-bulgur.webp"],
   "price": 150,
   "weight": { "value": 1, "unit": "porsiyon" },
   "category": { "name": "Aperatif", "url": "aperatif" },

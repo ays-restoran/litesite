@@ -2,7 +2,7 @@
   "id": "p6",
   "name": "Kuzu Kuşbaşı Porsiyon",
   "url": "porsiyon-kuzu-kusabasi",
-  "images": ["porsiyon-kuzu-kusabasi.jpg"],
+  "images": ["porsiyon-kuzu-kusabasi.webp"],
   "price": 700,
   "weight": { "value": 1, "unit": "porsiyon" },
   "category": { "name": "Porsiyon", "url": "porsiyon" },

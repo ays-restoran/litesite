@@ -2,7 +2,7 @@
   "id": "dt8",
   "name": "Kuzu Kuşbaşı Dürüm (Tek Şiş)",
   "url": "durum-kuzu-kusabasi-tek",
-  "images": ["durum-kuzu-kusabasi.jpg"],
+  "images": ["durum-kuzu-kusabasi.webp"],
   "price": 400,
   "weight": { "value": 1, "unit": "adet" },
   "category": { "name": "Dürüm", "url": "durum" },

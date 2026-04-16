@@ -2,7 +2,7 @@
   "id": "m4",
   "name": "Penne Alla Pesto",
   "url": "makarna-penne-alla-pesto",
-  "images": ["makarna-penne-alla-pesto.jpg"],
+  "images": ["makarna-penne-alla-pesto.webp"],
   "price": 380,
   "weight": { "value": 1, "unit": "porsiyon" },
   "category": { "name": "Makarna", "url": "makarna" },

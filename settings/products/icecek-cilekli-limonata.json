@@ -2,7 +2,7 @@
   "id": "dr37",
   "name": "Çilekli Limonata",
   "url": "icecek-cilekli-limonata",
-  "images": ["icecek-cilekli-limonata.jpg"],
+  "images": ["icecek-cilekli-limonata.webp"],
   "price": 150,
   "weight": { "value": 1, "unit": "adet" },
   "category": { "name": "İçecek", "url": "icecek" },

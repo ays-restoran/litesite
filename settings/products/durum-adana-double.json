@@ -2,7 +2,7 @@
   "id": "dd1",
   "name": "Adana Dürüm (Double Şiş)",
   "url": "durum-adana-double",
-  "images": ["durum-adana.jpg"],
+  "images": ["durum-adana.webp"],
   "price": 500,
   "weight": { "value": 1, "unit": "adet" },
   "category": { "name": "Dürüm", "url": "durum" },

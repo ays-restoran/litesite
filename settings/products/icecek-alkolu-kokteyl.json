@@ -2,7 +2,7 @@
   "id": "dr17",
   "name": "Alkollü Kokteyl",
   "url": "icecek-alkolu-kokteyl",
-  "images": ["icecek-alkolu-kokteyl.jpg"],
+  "images": ["icecek-alkolu-kokteyl.webp"],
   "price": 520,
   "weight": { "value": 1, "unit": "adet" },
   "category": { "name": "İçecek", "url": "icecek" },
@@ -11,5 +11,6 @@
   "keywords": "alkollü kokteyl, kokteyl, içecek, ays restorant",
   "longDesc": ["Bartenderımızın özel tarifine göre hazırlanan alkollü kokteyl."],
   "otherDesc": [{ "name": "Tür", "value": "Alkollü", "type": "spec" }],
-  "aggregateRating": { "ratingValue": "5", "reviewCount": "1", "bestRating": "5", "worstRating": "1" }
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "1", "bestRating": "5", "worstRating": "1" },
+  "isForMenu": false
 }

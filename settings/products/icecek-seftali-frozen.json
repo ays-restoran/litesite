@@ -2,7 +2,7 @@
   "id": "dr4",
   "name": "Şeftali Frozen",
   "url": "icecek-seftali-frozen",
-  "images": ["icecek-seftali-frozen.jpg"],
+  "images": ["icecek-seftali-frozen.webp"],
   "price": 260,
   "weight": { "value": 1, "unit": "adet" },
   "category": { "name": "İçecek", "url": "icecek" },

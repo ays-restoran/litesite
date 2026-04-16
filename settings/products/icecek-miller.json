@@ -2,7 +2,7 @@
   "id": "dr22",
   "name": "Miller",
   "url": "icecek-miller",
-  "images": ["icecek-miller.jpg"],
+  "images": ["icecek-miller.webp"],
   "price": 275,
   "weight": { "value": 1, "unit": "adet" },
   "category": { "name": "İçecek", "url": "icecek" },
@@ -11,5 +11,6 @@
   "keywords": "miller, bira, içecek, ays restorant",
   "longDesc": ["Soğuk servis edilen Miller bira."],
   "otherDesc": [{ "name": "Marka", "value": "Miller", "type": "spec" }],
-  "aggregateRating": { "ratingValue": "5", "reviewCount": "1", "bestRating": "5", "worstRating": "1" }
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "1", "bestRating": "5", "worstRating": "1" },
+  "isForMenu": false
 }

@@ -2,7 +2,7 @@
   "id": "dr33",
   "name": "Ayran/Kola/Fanta/Sprite 1 LT",
   "url": "icecek-1lt",
-  "images": ["icecek-1lt.jpg"],
+  "images": ["icecek-1lt.webp"],
   "price": 190,
   "weight": { "value": 1, "unit": "litre" },
   "category": { "name": "İçecek", "url": "icecek" },

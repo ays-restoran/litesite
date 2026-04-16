@@ -2,7 +2,7 @@
   "id": "m5",
   "name": "Tavuklu Fettucini",
   "url": "makarna-tavuklu-fettucini",
-  "images": ["makarna-tavuklu-fettucini.jpg"],
+  "images": ["makarna-tavuklu-fettucini.webp"],
   "price": 350,
   "weight": { "value": 1, "unit": "porsiyon" },
   "category": { "name": "Makarna", "url": "makarna" },

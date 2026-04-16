@@ -2,7 +2,7 @@
   "id": "dr35",
   "name": "Sıcak Kahve",
   "url": "icecek-sicak-kahve",
-  "images": ["icecek-sicak-kahve.jpg"],
+  "images": ["icecek-sicak-kahve.webp"],
   "price": 175,
   "weight": { "value": 1, "unit": "adet" },
   "category": { "name": "İçecek", "url": "icecek" },

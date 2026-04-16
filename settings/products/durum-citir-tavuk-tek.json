@@ -2,7 +2,7 @@
   "id": "dt8",
   "name": "Çıtır Tavuk Dürüm (Tek Şiş)",
   "url": "durum-citir-tavuk-tek",
-  "images": ["durum-citir-tavuk.jpg"],
+  "images": ["durum-citir-tavuk.webp"],
   "price": 300,
   "weight": { "value": 1, "unit": "adet" },
   "category": { "name": "Dürüm", "url": "durum" },

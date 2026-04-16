@@ -2,7 +2,7 @@
   "id": "dt3",
   "name": "Dana Kuşbaşı Dürüm (Tek Şiş)",
   "url": "durum-dana-kusabasi-tek",
-  "images": ["durum-dana-kusabasi.jpg"],
+  "images": ["durum-dana-kusabasi.webp"],
   "price": 400,
   "weight": { "value": 1, "unit": "adet" },
   "category": { "name": "Dürüm", "url": "durum" },

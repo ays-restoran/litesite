@@ -2,7 +2,7 @@
   "id": "p2",
   "name": "Urfa Porsiyon (Acısız)",
   "url": "porsiyon-urfa",
-  "images": ["porsiyon-urfa.jpg"],
+  "images": ["porsiyon-urfa.webp"],
   "price": 500,
   "weight": { "value": 1, "unit": "porsiyon" },
   "category": { "name": "Porsiyon", "url": "porsiyon" },

@@ -2,7 +2,7 @@
   "id": "m3",
   "name": "Tavuklu Noodle",
   "url": "makarna-tavuklu-noodle",
-  "images": ["makarna-tavuklu-noodle.jpg"],
+  "images": ["makarna-tavuklu-noodle.webp"],
   "price": 420,
   "weight": { "value": 1, "unit": "porsiyon" },
   "category": { "name": "Makarna", "url": "makarna" },

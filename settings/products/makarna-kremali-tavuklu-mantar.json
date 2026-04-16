@@ -2,7 +2,7 @@
   "id": "m1",
   "name": "Kremalı Tavuklu Mantarlı Makarna",
   "url": "makarna-kremali-tavuklu-mantar",
-  "images": ["makarna-kremali-tavuklu-mantar.jpg"],
+  "images": ["makarna-kremali-tavuklu-mantar.webp"],
   "price": 550,
   "weight": { "value": 1, "unit": "porsiyon" },
   "category": { "name": "Makarna", "url": "makarna" },

@@ -2,7 +2,7 @@
   "id": "dd6",
   "name": "Ciğer Şiş Dürüm (Double Şiş)",
   "url": "durum-ciger-sis-double",
-  "images": ["durum-ciger-sis.jpg"],
+  "images": ["durum-ciger-sis.webp"],
   "price": 500,
   "weight": { "value": 1, "unit": "adet" },
   "category": { "name": "Dürüm", "url": "durum" },

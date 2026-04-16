@@ -2,7 +2,7 @@
   "id": "dr8",
   "name": "Muz Smoothie",
   "url": "icecek-muz-smoothie",
-  "images": ["icecek-muz-smoothie.jpg"],
+  "images": ["icecek-muz-smoothie.webp"],
   "price": 260,
   "weight": { "value": 1, "unit": "adet" },
   "category": { "name": "İçecek", "url": "icecek" },

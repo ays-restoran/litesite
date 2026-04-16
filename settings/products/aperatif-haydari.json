@@ -2,7 +2,7 @@
   "id": "ap9",
   "name": "Haydari",
   "url": "aperatif-haydari",
-  "images": ["aperatif-haydari.jpg"],
+  "images": ["aperatif-haydari.webp"],
   "price": 150,
   "weight": { "value": 1, "unit": "porsiyon" },
   "category": { "name": "Aperatif", "url": "aperatif" },

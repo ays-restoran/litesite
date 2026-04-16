@@ -2,7 +2,7 @@
   "id": "dr36",
   "name": "Limonata",
   "url": "icecek-limonata",
-  "images": ["icecek-limonata.jpg"],
+  "images": ["icecek-limonata.webp"],
   "price": 120,
   "weight": { "value": 1, "unit": "adet" },
   "category": { "name": "İçecek", "url": "icecek" },

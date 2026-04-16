@@ -2,7 +2,7 @@
   "id": "p13",
   "name": "Kuzu Pirzola Şiş Porsiyon",
   "url": "porsiyon-kuzu-pirzola",
-  "images": ["porsiyon-kuzu-pirzola.jpg"],
+  "images": ["porsiyon-kuzu-pirzola.webp"],
   "price": 1100,
   "weight": { "value": 1, "unit": "porsiyon" },
   "category": { "name": "Porsiyon", "url": "porsiyon" },

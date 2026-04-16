@@ -2,7 +2,7 @@
   "id": "dr19",
   "name": "Efes Malt",
   "url": "icecek-efes-malt",
-  "images": ["icecek-efes-malt.jpg"],
+  "images": ["icecek-efes-malt.webp"],
   "price": 250,
   "weight": { "value": 1, "unit": "adet" },
   "category": { "name": "İçecek", "url": "icecek" },
@@ -11,5 +11,6 @@
   "keywords": "efes malt, bira, içecek, ays restorant",
   "longDesc": ["Soğuk servis edilen Efes Malt bira."],
   "otherDesc": [{ "name": "Marka", "value": "Efes Malt", "type": "spec" }],
-  "aggregateRating": { "ratingValue": "5", "reviewCount": "1", "bestRating": "5", "worstRating": "1" }
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "1", "bestRating": "5", "worstRating": "1" },
+  "isForMenu": false
 }

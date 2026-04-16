@@ -2,7 +2,7 @@
   "id": "dt7",
   "name": "Tavuk Şiş Dürüm (Tek Şiş)",
   "url": "durum-tavuk-tek",
-  "images": ["durum-tavuk.jpg"],
+  "images": ["durum-tavuk.webp"],
   "price": 300,
   "weight": { "value": 1, "unit": "adet" },
   "category": { "name": "Dürüm", "url": "durum" },

@@ -2,7 +2,7 @@
   "id": "dd9",
   "name": "Et Dönerli Soslu Dürüm (Double)",
   "url": "durum-et-donerli-double",
-  "images": ["durum-et-donerli.jpg"],
+  "images": ["durum-et-donerli.webp"],
   "price": 500,
   "weight": { "value": 1, "unit": "adet" },
   "category": { "name": "Dürüm", "url": "durum" },

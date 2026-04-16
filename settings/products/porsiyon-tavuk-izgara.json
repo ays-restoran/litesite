@@ -2,7 +2,7 @@
   "id": "p10",
   "name": "Tavuk Izgara",
   "url": "porsiyon-tavuk-izgara",
-  "images": ["porsiyon-tavuk-izgara.jpg"],
+  "images": ["porsiyon-tavuk-izgara.webp"],
   "price": 500,
   "weight": { "value": 1, "unit": "porsiyon" },
   "category": { "name": "Porsiyon", "url": "porsiyon" },

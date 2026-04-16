@@ -2,7 +2,7 @@
   "id": "dd8",
   "name": "Kuzu Kuşbaşı Dürüm (Double Şiş)",
   "url": "durum-kuzu-kusabasi-double",
-  "images": ["durum-kuzu-kusabasi.jpg"],
+  "images": ["durum-kuzu-kusabasi.webp"],
   "price": 600,
   "weight": { "value": 1, "unit": "adet" },
   "category": { "name": "Dürüm", "url": "durum" },

@@ -2,7 +2,7 @@
   "id": "dr1",
   "name": "Çilek Milkshake",
   "url": "icecek-cilek-milkshake",
-  "images": ["icecek-cilek-milkshake.jpg"],
+  "images": ["icecek-cilek-milkshake.webp"],
   "price": 260,
   "weight": { "value": 1, "unit": "adet" },
   "category": { "name": "İçecek", "url": "icecek" },

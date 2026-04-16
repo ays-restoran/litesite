@@ -2,7 +2,7 @@
   "id": "s4",
   "name": "Çoban Salata",
   "url": "salata-coban",
-  "images": ["salata-coban.jpg"],
+  "images": ["salata-coban.webp"],
   "price": 200,
   "weight": { "value": 1, "unit": "porsiyon" },
   "category": { "name": "Salata", "url": "salata" },

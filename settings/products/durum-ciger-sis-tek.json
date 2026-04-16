@@ -2,7 +2,7 @@
   "id": "dt6",
   "name": "Ciğer Şiş Dürüm (Tek Şiş)",
   "url": "durum-ciger-sis-tek",
-  "images": ["durum-ciger-sis.jpg"],
+  "images": ["durum-ciger-sis.webp"],
   "price": 400,
   "weight": { "value": 1, "unit": "adet" },
   "category": { "name": "Dürüm", "url": "durum" },

@@ -2,7 +2,7 @@
   "id": "ap12",
   "name": "Pirinç Pilavı",
   "url": "aperatif-pirinc-pilavi",
-  "images": ["aperatif-pirinc-pilavi.jpg"],
+  "images": ["aperatif-pirinc-pilavi.webp"],
   "price": 100,
   "weight": { "value": 1, "unit": "porsiyon" },
   "category": { "name": "Aperatif", "url": "aperatif" },

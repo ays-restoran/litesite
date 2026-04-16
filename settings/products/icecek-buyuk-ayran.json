@@ -2,7 +2,7 @@
   "id": "dr30",
   "name": "Büyük Ayran",
   "url": "icecek-buyuk-ayran",
-  "images": ["icecek-buyuk-ayran.jpg"],
+  "images": ["icecek-buyuk-ayran.webp"],
   "price": 50,
   "weight": { "value": 1, "unit": "adet" },
   "category": { "name": "İçecek", "url": "icecek" },

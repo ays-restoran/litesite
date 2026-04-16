@@ -2,7 +2,7 @@
   "id": "dt10",
   "name": "Köfte Dürüm (Tek Şiş)",
   "url": "durum-kofte-tek",
-  "images": ["durum-kofte.jpg"],
+  "images": ["durum-kofte.webp"],
   "price": 350,
   "weight": { "value": 1, "unit": "adet" },
   "category": { "name": "Dürüm", "url": "durum" },

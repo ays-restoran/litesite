@@ -2,7 +2,7 @@
   "id": "dr5",
   "name": "Çilek Frozen",
   "url": "icecek-cilek-frozen",
-  "images": ["icecek-cilek-frozen.jpg"],
+  "images": ["icecek-cilek-frozen.webp"],
   "price": 260,
   "weight": { "value": 1, "unit": "adet" },
   "category": { "name": "İçecek", "url": "icecek" },

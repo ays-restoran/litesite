@@ -2,7 +2,7 @@
   "id": "dr24",
   "name": "Kola Zero",
   "url": "icecek-kola-zero",
-  "images": ["icecek-kola-zero.jpg"],
+  "images": ["icecek-kola-zero.webp"],
   "price": 90,
   "weight": { "value": 1, "unit": "adet" },
   "category": { "name": "İçecek", "url": "icecek" },

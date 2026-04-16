@@ -2,7 +2,7 @@
   "id": "dr29",
   "name": "Küçük Ayran",
   "url": "icecek-kucuk-ayran",
-  "images": ["icecek-kucuk-ayran.jpg"],
+  "images": ["icecek-kucuk-ayran.webp"],
   "price": 40,
   "weight": { "value": 1, "unit": "adet" },
   "category": { "name": "İçecek", "url": "icecek" },

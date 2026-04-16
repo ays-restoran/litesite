@@ -2,7 +2,7 @@
   "id": "ap11",
   "name": "Yoğurt",
   "url": "aperatif-yogurt",
-  "images": ["aperatif-yogurt.jpg"],
+  "images": ["aperatif-yogurt.webp"],
   "price": 150,
   "weight": { "value": 1, "unit": "porsiyon" },
   "category": { "name": "Aperatif", "url": "aperatif" },

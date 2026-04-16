@@ -2,7 +2,7 @@
   "id": "p4",
   "name": "Tavuk Şiş Porsiyon",
   "url": "porsiyon-tavuk-sis",
-  "images": ["porsiyon-tavuk-sis.jpg"],
+  "images": ["porsiyon-tavuk-sis.webp"],
   "price": 500,
   "weight": { "value": 1, "unit": "porsiyon" },
   "category": { "name": "Porsiyon", "url": "porsiyon" },
