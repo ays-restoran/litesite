@@ -315,8 +315,8 @@ article > h3 ~ ul li a:visited {
   padding: .75rem;
   font-size: 1.1rem;
   font-weight: bold;
-  background: var(--c-primary);
-  color: #fff;
+  background: orange;
+  color: #000;
   border: none;
   border-radius: .5rem;
   cursor: pointer;
