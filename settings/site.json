@@ -5,7 +5,7 @@
   "langSwitch": [
     { "label": "TR", "url": "https://alan-adiniz.com", "lang": "tr" }
   ],
-  "rootPages": ["index", "404", "menu"],
+  "rootPages": ["index", "404", "menu", "staff"],
   "pagesDir": "pages",
   "productsDir": "products",
   "isCategoryCollapsable": true,
